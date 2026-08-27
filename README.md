@@ -1,5 +1,3 @@
-# Transfer Ledger
+## Method
 
-Recovered movements indexed under KX/C-17.
-
-The entries use local time. A movement is accepted only when a witness account and an independent clock record agree with the ledger.
+Entries remain provisional until date, local time, and location agree across independent records.
